@@ -1,1 +1,2 @@
-# roku-first-steps
+# hello-world
+A basic sample channel application for Roku
